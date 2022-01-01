@@ -28,4 +28,5 @@ function ShoppingList() {
             {plant.isBestSale ? <span>🔥</span> : <span>👎</span>}
         </li>
     ))}
+
 export default ShoppingList
